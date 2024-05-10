@@ -4,7 +4,7 @@
     font-weight: bold;
     padding: 10px;
     place-items: center;
-    background: var(--bg-gradient);
+    background-image: linear-gradient(to right, rgba(32, 189, 165, 0.497), rgb(77, 213, 166));
 }
 
 .input{

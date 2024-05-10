@@ -1,0 +1,23 @@
+.footer{
+    padding: 10px;
+    background-image: linear-gradient(to right, rgba(32, 189, 165, 0.497), rgb(77, 213, 166));
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.footerLink{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color: #292929;
+    margin: 10px 0;
+    font-size: 12px;
+}
+
+.footerIcon{
+    width: 35px;
+    margin: 5px 0;
+}
