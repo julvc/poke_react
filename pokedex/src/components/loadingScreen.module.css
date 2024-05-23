@@ -1,0 +1,14 @@
+.loadingScreen{
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    background-image: linear-gradient(to right, rgba(32, 189, 165, 0.497), rgb(77, 213, 166));
+}
+
+.loadingScreenIcon{
+    width: 30%;
+    height: 30%;
+    max-width: 200px;
+    max-height: 200px;
+    object-fit: contain;
+}
